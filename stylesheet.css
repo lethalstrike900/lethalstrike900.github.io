@@ -22,9 +22,10 @@ width: 80px;
  color:red;
 }
 .right {
+ position: relative;
  border: 1px solid blue;
- float: right;
- clear: right;
+ right:0;
+ 
  background-color: gold;
  width: 600px;
 }

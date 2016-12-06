@@ -8,3 +8,10 @@
  position: relative;
  clear: left;
 }
+.button {
+ background-color:green;
+ border-radius: 25px;
+}
+.button:hover {
+ color:red;
+}

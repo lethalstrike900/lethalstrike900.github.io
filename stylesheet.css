@@ -23,7 +23,7 @@ width: 80px;
 }
 .right {
  border: 1px solid blue;
- position: relative;
+ 
  clear: right;
  background-color: gold;
  width: 600px;

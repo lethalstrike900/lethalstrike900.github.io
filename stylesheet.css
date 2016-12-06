@@ -1,4 +1,10 @@
 .title {
  border: 1px solid blue;
  background-color: gray;
+ position: static;
+}
+.left {
+ border: 1px solid blue;
+ position: relative;
+ clear: left;
 }

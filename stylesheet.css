@@ -22,7 +22,7 @@ width: 80px;
  color:red;
 }
 .right {
- position: relative;
+ position: static;
  border: 1px solid blue;
  right:0;
  

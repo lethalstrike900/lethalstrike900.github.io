@@ -9,9 +9,8 @@
  clear: left;
 }
 .button {
+ border: 1px solid green;
  background-color:green;
  border-radius: 25px;
 }
-.button:hover {
- color:red;
-}
+

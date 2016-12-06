@@ -5,7 +5,7 @@
 }
 .left {
  border: 1px solid blue;
- position: relative;
+ position: static;
  clear: left;
  width: 400px;
  background-color: silver;
